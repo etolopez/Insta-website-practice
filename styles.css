@@ -1,0 +1,27 @@
+
+.img-thumbnail {
+    border: 0;
+    padding: 0;
+}
+
+#instaIcon:hover {
+    opacity: 50%;
+}
+
+#comment{
+    border: 0;
+}
+
+.body2{
+    background-color: rgb(230, 230, 230);
+}
+
+#feed {
+    display: block;
+    margin: auto;
+}
+
+#card{
+justify-content: center;
+margin: auto;
+}
